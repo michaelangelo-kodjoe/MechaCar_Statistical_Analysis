@@ -1,5 +1,8 @@
 # MechaCar_Statistical_Analysis
 
+## Overview of Project
+The goal of this project is to analyze certain metrics that can affect the manufacturing of a new car prototype and compare vehicle performance across different manufacturer lots.
+
 ## Linear Regression to Predict MPG
 Using the MechaCar dataset, a linear regresseion model is created to find out what is causing the production problems blocking the manufacturing team’s progress.
 To analyze this data, two linear regression models were created.
