@@ -20,3 +20,5 @@ We then ask ourselves these questions:
 
   This linear model does not predict the mpg of the prototypes effecively because there are many other vavaribles that could generalize and predict future 
   prototpyes more effectively. For example the weight of MechaCar prototypes.
+
+## Summary Statistics on Suspension Coils
