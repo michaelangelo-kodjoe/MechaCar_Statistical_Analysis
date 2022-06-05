@@ -22,4 +22,7 @@ We then ask ourselves these questions:
   prototpyes more effectively. For example the weight of MechaCar prototypes.
 
 ## Summary Statistics on Suspension Coils
+<img width="671" alt="T test_showing_difference_from_mean" src="https://user-images.githubusercontent.com/85206793/172061847-37ad6bbf-ecbb-4bb3-aae8-ffa09f522331.png">
+
 ## T-Tests on Suspension Coils
+<img width="671" alt="T test_for_each_manufacturing_lot" src="https://user-images.githubusercontent.com/85206793/172061769-9ab7fdf5-33c0-4b33-a1cb-7629d0e70365.png">
